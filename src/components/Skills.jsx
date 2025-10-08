@@ -1,10 +1,10 @@
 import React from "react";
-import html from "../../src/assets/html.png"
-import css from "../../src/assets/css.png"
-import javascript from "../../src/assets/javascript.png"
-import react from "../../src/assets/react.png"
-import tailwind from "../../src/assets/tailwind.png"
-import node from "../../src/assets/node.png"
+import html from "../assets/html.png"
+import css from "../assets/css.png"
+import javascript from "../assets/javascript.png"
+import react from "../assets/react.png"
+import tailwind from "../assets/tailwind.png"
+import node from "../assets/node.png"
 import Typewriter from "typewriter-effect";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import { FaGitAlt, FaGithub, FaFigma, FaAngular, FaPhp, FaLaravel, FaBootstrap, FaSass, FaNpm, FaCode } from 'react-icons/fa';

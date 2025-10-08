@@ -1,5 +1,5 @@
 import React from 'react';
-import design from "../../src/assets/bg34.jpg"
+import design from "../assets/bg34.jpg"
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 
 

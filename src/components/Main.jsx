@@ -1,12 +1,12 @@
 import React, { useEffect } from "react";
 import { MdArrowRightAlt } from "react-icons/md";
-import boy2 from "../../src/assets/kholis-agpais.jpeg";
+import boy2 from "../assets/kholis-agpais.jpeg";
 import Typewriter from "typewriter-effect";
 import "animate.css/animate.min.css";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import OP from "../../src/assets/OP.gif"
+import OP from "../assets/OP.gif"
 import Kholis from '../assets/Kholis-cv.pdf';
 
 

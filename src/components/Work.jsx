@@ -1,8 +1,8 @@
 import React from "react";
-import ponpes from "../../src/assets/projects/1.png";
+import ponpes from "../assets/projects/1.png";
 import Typewriter from "typewriter-effect";
-import parfum from "../../src/assets/projects/2.png"
-import game from "../../src/assets/projects/game.png"
+import parfum from "../assets/projects/2.png"
+import game from "../assets/projects/game.png"
 
 
 
